@@ -1,0 +1,6 @@
+pandas
+fsspec
+ipykernel
+ipywidgets
+huggingface_hub
+scikit-learn
